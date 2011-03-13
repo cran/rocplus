@@ -1,0 +1,155 @@
+\begin{thebibliography}{24}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bamber(1975)]{Bamber}
+D.~Bamber.
+\newblock The area above the ordinal dominance graph and the area below the
+  receiver operating characteristic graphl.
+\newblock \emph{Jour. Math. Psychol.}, 12:\penalty0 387--415, 1975.
+
+\bibitem[Barry(2001)]{Barry}
+M.J Barry.
+\newblock Prostate-specific-antigen testing for early diagnosis of prostate
+  cancer.
+\newblock \emph{NE J. Med}, 344\penalty0 (18):\penalty0 1273--1377, 2001.
+
+\bibitem[Bauer(1972)]{Bauer}
+D.F. Bauer.
+\newblock Constructing confidence sets using rank statistics.
+\newblock \emph{J. Am.Stat.Assoc.}, 67\penalty0 (339):\penalty0 687--690, 1972.
+
+\bibitem[Catalona et~al.(1998)Catalona, Partin, Slawin, Brawer,
+  et~al.]{Catalona}
+W.J Catalona, A.W. Partin, K.M. Slawin, M.K. Brawer, et~al.
+\newblock Use of the percentage of free prostate-specific antigen to enhance
+  differentiation of prostate cancer from benign prostatic disease.
+\newblock \emph{JAMA}, 279\penalty0 (19):\penalty0 1542--1547, 1998.
+
+\bibitem[{Cortes} and {Mohri}(2005)]{NIPS2005_197}
+Corinna {Cortes} and Mehryar {Mohri}.
+\newblock Confidence intervals for the area under the roc curve.
+\newblock In Lawrence~K. Saul, Yair Weiss, and {L\'{e}on} Bottou, editors,
+  \emph{Advances in Neural Information Processing Systems 17}, pages 305--312.
+  MIT Press, Cambridge, MA, 2005.
+
+\bibitem[DeLong et~al.(1988)DeLong, DeLong, and Clarke-Pearson]{DeLong}
+E.~DeLong, D.~DeLong, and D.~Clarke-Pearson.
+\newblock Comparing the areas under two or more correlated receiver operating
+  characteristic curves: A nonparametric approach.
+\newblock \emph{Biometircs}, 44:\penalty0 837--845, 1988.
+
+\bibitem[Fawcett(2006)]{Fawcett}
+Tom Fawcett.
+\newblock An introduction to roc analysis.
+\newblock \emph{Pattern Recognition Letters}, 27\penalty0 (8):\penalty0
+  861--874, 2006.
+
+\bibitem[Fechner(1860)]{Fechner}
+Gustav~Theodor Fechner.
+\newblock \emph{Elements of Psychophysics}.
+\newblock Holt, Rinehart and Winston, Howes, D.H. and Boring, E.G editors, New
+  York, N.Y., 1860.
+\newblock Translation of Elemente de Psychophysic, Vol1 by Helmut E. Adler.
+
+\bibitem[Fisher(1921)]{Fisher}
+R.A. Fisher.
+\newblock On the ``probable error'' of a coefficient of correlation deduced
+  from a small sample.
+\newblock \emph{Metron}, 1\penalty0 (4):\penalty0 3--32, 1921.
+
+\bibitem[Gann et~al.(1995)Gann, Hennekens, and Stamfer]{Gann}
+P.H. Gann, H.~Hennekens, and M.J. Stamfer.
+\newblock A prospective evaluation of plasma prostate-specific antigen for
+  detection of prosatic cancer.
+\newblock \emph{JAMA}, 273\penalty0 (4):\penalty0 289--294, 1995.
+
+\bibitem[Green and Swets(1966)]{Green}
+D.M. Green and J.A. Swets.
+\newblock \emph{Signal detection theory and psychophysics}.
+\newblock Wiley, New York, 1966.
+\newblock Reprint with corrections 1974.
+
+\bibitem[Johnson et~al.(1994)Johnson, Kotz, and Balakrishnan]{Johnson}
+N.L. Johnson, S.~Kotz, and N.~Balakrishnan.
+\newblock \emph{Continuous univariate distributions, Vol I}.
+\newblock Wiley, New York, second edition, 1994.
+
+\bibitem[Macskassy and Provost(2004)]{Macskassy}
+A.~Macskassy and F.~Provost.
+\newblock Confidence bands for roc curves: Methods and an empirical study.
+\newblock \emph{Proceedings of the First Workshop on ROC Analysis in AI. August
+  2004}, CeDER-PP-200407, 2004.
+
+\bibitem[Marcum(1947)]{Marcum}
+J.~I. Marcum.
+\newblock \emph{A Statistical Theory of Target Detection by Pulsed Radar}.
+\newblock RAND Corporation, Santa Monica, CA, 1947.
+
+\bibitem[Morgan et~al.(1996)Morgan, Jacobsen, McCarthy, et~al.]{Morgan}
+T.O. Morgan, S.T. Jacobsen, W.F. McCarthy, et~al.
+\newblock Age-specific reference ranges for serum prostate-specific antigen in
+  black men.
+\newblock \emph{N. Engl. J. Med.}, 335\penalty0 (5):\penalty0 304--310, 1996.
+
+\bibitem[Noether(1967)]{Noether}
+G.E. Noether.
+\newblock \emph{Elements of nonparametric statistics}.
+\newblock Wiley, New York, 1967.
+
+\bibitem[Oesterling et~al.(1993)Oesterling, Jacobsen, Chute,
+  et~al.]{Oesterling}
+J.E. Oesterling, S.J. Jacobsen, C.G. Chute, et~al.
+\newblock Serum prostate-specific antigen in a community-based population of
+  healthy men.
+\newblock \emph{JAMA}, 270\penalty0 (7):\penalty0 860--864, 1993.
+
+\bibitem[Oesterling et~al.(1995)Oesterling, Jacobsen, Klee,
+  et~al.]{OesterlingB}
+J.E. Oesterling, S.J. Jacobsen, G.G. Klee, et~al.
+\newblock Free, complexed and total serum prostate specific antigen: the
+  establishment of appropriate reference ranges for their concentrations and
+  ratios.
+\newblock \emph{J.Urol.}, 154\penalty0 (Sept.):\penalty0 1090--1095, 1995.
+
+\bibitem[Pearson(1904)]{Pearson}
+K.~Pearson.
+\newblock On a novel method of regarding the association of. two variates
+  classed solely in alternate categories.
+\newblock \emph{Biom.}, Ser. I:\penalty0 1--35, 1904.
+\newblock Draper's Co. Res. Mem.
+
+\bibitem[Peirce and Jastrow(1884)]{Peirce}
+Charles Peirce and Joseph Jastrow.
+\newblock On small differences of sensation.
+\newblock \emph{Memoirs of the National Academy of Sciences for 1884},
+  3:\penalty0 75--83, 1884.
+
+\bibitem[Peterson et~al.(1953)Peterson, Birdsall, and Fox]{Peterson}
+W.W. Peterson, T.G. Birdsall, and W.C. Fox.
+\newblock \emph{The theory of signal detection}.
+\newblock Electronics Defense Group, University of Michigan, 1953.
+\newblock Technical Report no.13, also pub. Trans IRE Prof. Grp. 1954, 4(4).
+  p171-212.
+
+\bibitem[Tanner and Swets(1954)]{Tanner}
+W.P.~Jr. Tanner and J.~Swets.
+\newblock \emph{A new theory of visual detection}.
+\newblock Electronics Defense Group, University of Michigan, 1954.
+\newblock Technical Report no.19.
+
+\bibitem[Wheeler(1980)]{Wheeler}
+R.E. Wheeler.
+\newblock Quantile estimators of johnson curve parameters.
+\newblock \emph{Biometrika}, 67\penalty0 (3):\penalty0 725--728, 1980.
+
+\bibitem[Zou et~al.(1997)Zou, Hall, and Shapiro]{Zou}
+K.~Zou, W.J. Hall, and D.E. Shapiro.
+\newblock Smooth non parametric receiver operatingcharacteristic (roc) curves
+  for continuous diagnostic tests.
+\newblock \emph{Statistics in Medicine}, 16:\penalty0 2143--2156, 1997.
+
+\end{thebibliography}
